@@ -1,0 +1,11 @@
+{
+  "name": "anar_javascript_task",
+  "version": "1.0.0",
+  "description": "Test Task AQA - JavaScript version by Anar",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Anar",
+  "license": "MIT"
+}
